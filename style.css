@@ -1,17 +1,19 @@
 <!doctype html>
-<style>
+    html{ 
+   text-align: center;
+   }
+   
     body {
      background-color: GhostWhite;
     color: #212121;
     background-image: url(http://static.tumblr.com/gbp47xv/awem45dz2/background2.0.jpg);
     font: 25px 'Nothing You Could Do', cursive;
     background-size: cover;
-    text-align: center;
     }
     
     h1 {
       color: MidnightBlue;
-      font: 90px 'Fredericka the Great', cursive;
+      font: 90px 70px 'Fredericka the Great', cursive;
       text-align: center;
     }
     
@@ -19,30 +21,35 @@
      color: MidnightBlue;
      font: 40px 'Nothing You Could Do', cursive;
       text-align: center;
-      
-    }
-  </style>
+       }
  
- <style>
-    body {
-     background-color: GhostWhite;
-    color: #212121;
-    background-image: url(http://static.tumblr.com/gbp47xv/awem45dz2/background2.0.jpg);
-    font: 25px 'Nothing You Could Do', cursive;
-    background-size: cover;
-    text-align: center;
-    }
-    
-    h1 {
-      color: MidnightBlue;
-      font: 70px 'Fredericka the Great', cursive;
-      text-align: center;
-    }
-    
-    h2 {
-     color: MidnightBlue;
-     font: 40px 'Nothing You Could Do', cursive;
-      text-align: center;
-    }
+  /* unvisited link */
+nav a{
+   text-decoration: none;
+   background-color: rgba(171, 131, 132, 0.45);
+   padding: 5px;
+   border-radius: 10px;
+}
+nav a:link, a:link{
+    color: white ;
+}
+
+/* visited link */
+nav a:visited, a:visited{
+    color: white ;
+}
+
+/* mouse over link */
+nav a:hover, a:hover{
+    color: DimGray;
+}
+
+/* selected link */
+nav a:active, a:active{
+    color: white ;
+} 
+
+footer, hr{
+   position: fixed;
+}
   
-  </style>
