@@ -32,17 +32,17 @@ nav a{
    border-radius: 10px;
 }
 nav a:link, a:link{
-    color: white ;
+    color: MidnightBlue;
 }
 
 /* visited link */
 nav a:visited, a:visited{
-    color: white ;
+    color: MidnightBlue;
 }
 
 /* mouse over link */
 nav a:hover, a:hover{
-    color: DimGray;
+    color: #bbdefb;
 }
 
 /* selected link */
