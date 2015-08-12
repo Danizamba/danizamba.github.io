@@ -14,7 +14,7 @@
     
     h1 {
       color: MidnightBlue;
-      font: 90px 70px 'Fredericka the Great', cursive;
+      font: 90px 'Fredericka the Great', cursive;
       text-align: center;
     }
     
@@ -51,6 +51,6 @@ nav a:active, a:active{
 } 
 
 footer, hr{
-   position: fixed;
+   position: center;
 }
   
