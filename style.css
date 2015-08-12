@@ -27,7 +27,7 @@
   /* unvisited link */
 nav a{
    text-decoration: none;
-   background-color: #b5e1d9(181,225,217);
+   background-color: (181,225,217);
    padding: 5px;
    border-radius: 10px;
 }
