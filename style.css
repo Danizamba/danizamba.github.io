@@ -18,7 +18,8 @@
       text-align: center;
     }
     
-    h2 {
+    h2,
+    p{
      color: MidnightBlue;
      font: 40px 'Nothing You Could Do', cursive;
       text-align: center;
