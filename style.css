@@ -22,3 +22,27 @@
       
     }
   </style>
+ 
+ <style>
+    body {
+     background-color: GhostWhite;
+    color: #212121;
+    background-image: url(http://static.tumblr.com/gbp47xv/awem45dz2/background2.0.jpg);
+    font: 25px 'Nothing You Could Do', cursive;
+    background-size: cover;
+    text-align: center;
+    }
+    
+    h1 {
+      color: MidnightBlue;
+      font: 70px 'Fredericka the Great', cursive;
+      text-align: center;
+    }
+    
+    h2 {
+     color: MidnightBlue;
+     font: 40px 'Nothing You Could Do', cursive;
+      text-align: center;
+    }
+  
+  </style>
