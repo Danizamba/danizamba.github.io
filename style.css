@@ -65,8 +65,9 @@ width: 100%;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 3px;
-}
-  
+    height: 620px;
+    width: 100%;
+ }
 body {
 footer, hr{
    position: center;
