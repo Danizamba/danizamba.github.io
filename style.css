@@ -67,14 +67,6 @@ width: 100%;
     margin: -32px 0px 0px -170px;
   }
   
-  section a {
-    color: #FFF;
-    border: 1px solid #FFF;
-    padding: 20px;
-    text-decoration: none;
-    text-transform: uppercase;
-    border-radius: 3px;
-}
 body {
 footer, hr{
    position: center;
