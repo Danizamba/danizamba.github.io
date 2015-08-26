@@ -33,17 +33,17 @@ nav a{
    border-radius: 10px;
 }
 nav a:link, a:link{
-    color: #616161;
+    color: #FFF;
 }
 
 /* visited link */
 nav a:visited, a:visited{
-    color: #616161;
+    color: #FFF;
 }
 
 /* mouse over link */
 nav a:hover, a:hover{
-    color: #bbdefb;
+    color: #FFF;
 }
 
 /* selected link */
