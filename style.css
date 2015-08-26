@@ -53,6 +53,8 @@ nav a:active, a:active{
 
 section {
     background-color: aqua;
+    height: 500px;
+    width: 100%;
 }
 footer, hr{
    position: center;
