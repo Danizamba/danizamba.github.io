@@ -57,7 +57,10 @@ section {
   background:     -ms-linear-gradient(90deg, #283048 10%, #859398 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #283048 10%, #859398 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #283048 10%, #859398 90%); /* W3C */
+ height: 250px;
+    width: 100%;
   }
+ 
 footer, hr{
    position: center;
 }
