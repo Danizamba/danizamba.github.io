@@ -51,6 +51,9 @@ nav a:active, a:active{
     color: white ;
 } 
 
+section {
+    background-color:aqua;
+}
 footer, hr{
    position: center;
 }
