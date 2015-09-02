@@ -84,3 +84,7 @@ footer, hr, table {
 #content {
     position: center;
 }
+
+iframe {
+    position: center;
+}
