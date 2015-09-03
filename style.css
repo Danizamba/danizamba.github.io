@@ -4,7 +4,7 @@
    position: center;
    }
    
-    body {
+    body{
      margin: 0;
      background-color: GhostWhite;
     color: #FCA5A5;
@@ -13,7 +13,8 @@
     background-size: cover;
     text-align: center;
     }
-    body {
+    body,
+    nav {
     color: #FCA5A5;
     font: 30px "Neucha",cursive;
     text-align: center;
