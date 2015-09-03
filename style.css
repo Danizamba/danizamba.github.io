@@ -88,3 +88,7 @@ footer, hr, table {
 iframe {
     position: center;
 }
+
+fa {
+    width: 20px;
+}
