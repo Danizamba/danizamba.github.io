@@ -15,7 +15,7 @@
     }
     nav {
     color: #FCA5A5;
-    font: 39px "Neucha",cursive;
+    font: 40px "Neucha",cursive;
     text-align: center;
     }
      
@@ -99,4 +99,9 @@ iframe {
 
 td {
     width: 20px;
+}
+
+.fa {
+    font-size: 40px;
+}
 }
