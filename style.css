@@ -74,7 +74,7 @@ width: 100%;
  }
  
  #description {
-    height: 620px;
+    height: 220px;
     width: 100%;
  }
 body {
@@ -82,6 +82,11 @@ footer, hr, table {
    position: center;
 }
 
+footer {
+    color: #FCA5A5;
+    font: 35px "Neucha",cursive;
+    text-align: center;
+}
 #content {
     position: center;
 }
