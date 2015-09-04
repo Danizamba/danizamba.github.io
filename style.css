@@ -95,6 +95,15 @@ footer {
     font: 27px "Neucha",cursive;
     text-align: center;
 }
+
+
+element {
+    border: medium none;
+    width: 100%;
+    max-width: 250px;
+    height: 340px;
+}
+
 #content {
     position: center;
 }
