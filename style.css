@@ -1,5 +1,6 @@
 <!doctype html>
     html{ 
+background-image: url(http://img07.deviantart.net/fcbb/i/2010/363/c/5/sky_background_by_mysticmorning-d35yehm.jpg);
    text-align: center;
    position: center;
    }
@@ -8,8 +9,7 @@
      margin: 0;
      background-color: GhostWhite;
     color: #FCA5A5;
-    background-image: url(http://img07.deviantart.net/fcbb/i/2010/363/c/5/sky_background_by_mysticmorning-d35yehm.jpg);
-    font: 25px 'Neucha', cursive;
+    font: 'Neucha', cursive;
     background-size: cover;
     text-align: center;
     }
@@ -83,7 +83,7 @@ footer, hr, table {
 
 footer {
     color: #FCA5A5;
-    font: 32px "Neucha",cursive;
+    font: 27px "Neucha",cursive;
     text-align: center;
 }
 #content {
