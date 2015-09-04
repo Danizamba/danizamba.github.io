@@ -1,12 +1,12 @@
 <!doctype html>
     html{ 
-background-image: url(http://img07.deviantart.net/fcbb/i/2010/363/c/5/sky_background_by_mysticmorning-d35yehm.jpg);
    text-align: center;
    position: center;
    }
    
     body{
      margin: 0;
+     background-image: url(http://img07.deviantart.net/fcbb/i/2010/363/c/5/sky_background_by_mysticmorning-d35yehm.jpg);
      background-color: GhostWhite;
     color: #FCA5A5;
     font: 'Neucha', cursive;
