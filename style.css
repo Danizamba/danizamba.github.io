@@ -33,6 +33,10 @@
      font: 37px  'Neucha', cursive;
       text-align: center;
        }
+       
+       .fa: h1 {
+           font-size: 25px;
+       }
  
   /* unvisited link */
 nav a{
