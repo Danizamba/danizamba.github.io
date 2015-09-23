@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url();
+  background-image:url(http://www.africanseer.com/thumbnail.php?file=Cross_Sanaga_Bioko_688903733.jpg&size=article_medium);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: #FFFFFF;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
